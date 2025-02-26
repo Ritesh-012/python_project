@@ -1,5 +1,5 @@
 number_one = 10
-number_two = 20
+number_two = 40
 number_three = 30
 text_one = "Hello world"
 print(number_one, number_two, number_three, text_one)
@@ -7,12 +7,12 @@ print(number_one, number_two, number_three, text_one)
 
 # Basic string printing
 greeting = "Hello"
-name = "Alice"
+name = "Team"
 print(greeting + ", " + name + "!")
 
 # Basic arithmetic operators
 a = 10
-b = 5
+b = 15
 print("Addition:", a + b)
 print("Subtraction:", a - b)
 print("Multiplication:", a * b)
